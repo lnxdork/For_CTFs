@@ -1,5 +1,5 @@
 #######################
-# Powershell NAND 2 Files
+# Python NAND 2 Files
 # nand.py
 # Jan 2018
 # Use: ./nand.py file1 file2 outputFile
